@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "ntb.jpg"
+  Type "RASTER"
+  (0,1) (0,0) Label "Pt 1",
+  (1,1) (1,0) Label "Pt 2",
+  (0,0) (0,1) Label "Pt 3"
+  CoordSys NonEarth Units "ft"
+  Units "ft"
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "f09e7c6e-ba14-482c-ac61-1c7e88c2a7a2"
+end_metadata
