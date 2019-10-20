@@ -1,0 +1,2 @@
+# mymapinfo
+tugas map info
